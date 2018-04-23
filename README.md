@@ -10,27 +10,15 @@ Slack
 
 Skype Enterprise
 
-#### Project Managemennt / Kankan
+#### Project Managemennt / Kanban
 
 Trello
--	Connection with git hosting platforms (GitHub, GitLab, Bitbucket, etc...)
--	No setup
--	Easy to use
--	Tags
--	Assign task to member of team
--	Checklist
--	Deadline
--	Attachment file
--	Etc…
 
 ## Git
 
 #### Hosting platform
 
-- GitHub
-  - free but no private repo
-- BitBucket
-  - free with private repos with up to 5 collaborators
+BitBucket (free with private repos with up to 5 collaborators)
 
 #### Software
 
