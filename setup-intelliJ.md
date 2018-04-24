@@ -56,10 +56,13 @@
 - Select **Build, Execution, Deployment** in the left column then **Application Servers**
 - Clic on the **"+"** sign and select GlassFish Server
 - Enter the path of your GlassFish install folder in **GlassFish Home** field.
-- Clic **OK**, **Apply** and **OK**
 
 ![GlassFish Configuration](https://cdn.pbrd.co/images/HhWCCcU.png)
 
+- Check all the aditional features you want to 
+- Clic **OK**, **Apply** and **OK**
+
+![GlassFish Configuration 2](https://cdn.pbrd.co/images/Hi6DRQm.png)
 ## New Project
 
  - Open IntelliJ and Create a new project.
